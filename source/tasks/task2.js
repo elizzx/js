@@ -10,7 +10,7 @@ function writeNumbers(x, y) {
         console.log(i);
     }
 }
-
+// => 
 
 function writeNumbersReverse(x, y) {
     if (x < y) {
